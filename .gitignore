@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local ChromaDB database
+chroma_data/
+
+# Environment secrets
+.env
